@@ -1,0 +1,15 @@
+div.Presentacion {
+    float: left;
+    width: 70%;
+    margin: 20px auto;
+    background-color: #449;
+    color: #fff;
+    padding: 15px;
+  }
+  
+  div.Presentacion img.izquierda {
+    float: left;
+    margin-right: 15px;
+    width: 270px;
+  }
+  
